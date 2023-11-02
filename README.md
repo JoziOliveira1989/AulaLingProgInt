@@ -1,1 +1,1 @@
-# curr-culo-dev
+# curriculo-dev
